@@ -7,7 +7,7 @@ How to Use
 
 1. Clone the repository
 
-git clone [https://github.com/YOUR_USERNAME/logi-k380-udev-rules.git](https://github.com/YOUR_USERNAME/logi-k380-udev-rules.git)
+git clone [https://github.com/Snowsore/logi-k380-udev-rules.git](https://github.com/Snowsore/logi-k380-udev-rules.git)
 cd logi-k380-udev-rules
 
 2. Make scripts executable
